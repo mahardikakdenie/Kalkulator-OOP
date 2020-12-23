@@ -20,7 +20,7 @@ class Bagi : public Kalkulator{
         void Display(){
             cout<<"\n[/] Hasil Pembagian "<<endl;
             Hasil = bil1 / bil2 ;
-            cout<<"Hasil dari "<<bil1<<" / "<<bil2<<" = " <<setiosflags(ios::fixed)<<setprecision(1)<<Hasil<<endl;
+            cout<<"Hasil dari "<<bil1<<" / "<<bil2<<" = " <<Hasil<<endl;
         }
 };
 
