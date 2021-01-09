@@ -47,7 +47,7 @@ int main(int argc, char const *argv[])
         }
         else if (pil == 5)
         {
-             Modulus Op5;
+            Modulus Op5;
             Op5.Mod();
             Op5.Display();
         }
