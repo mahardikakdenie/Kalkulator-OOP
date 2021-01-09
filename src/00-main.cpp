@@ -12,7 +12,7 @@ int main(int argc, char const *argv[])
     {
         system("cls");
     MainMenu:
-        cout << "---------Kalkulator Bangun Datar---------" << endl;
+        cout << "---------Kalkulator Operasi---------" << endl;
         cout << "1.Penjumlahan" << endl;
         cout << "2.Pengurangan" << endl;
         cout << "3.Perkalian" << endl;
