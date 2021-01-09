@@ -1,14 +1,7 @@
 #include <iostream>
 #include <string>
-#include <cmath>
 
-#include "01-server.hpp"
-#include "02-Tambah.hpp"
-#include "03-Kurang.hpp"
-#include "04-Kali.hpp"
-#include "05-Bagi.hpp"
-#include "06-Mod.hpp"
-#include "07-Pangkat.hpp"
+#include "Server/Server.cpp"
 
 
 using namespace std;
