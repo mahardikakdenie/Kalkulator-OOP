@@ -10,9 +10,6 @@ int main(int argc, char const *argv[])
     char lagi;
     do
     {
-       
-        
-
         system("cls");
     MainMenu:
         cout << "---------Kalkulator Bangun Datar---------" << endl;
